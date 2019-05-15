@@ -1,0 +1,3 @@
+D:\2.青风蓝牙5.0代码\4.蓝牙参数及安全设置篇\实验24：蓝牙信号强度rssi\examples\ble_peripheral\ble_app_template\pca10040\s132\arm5_no_packs
+
+D:\3.BLE原创进阶代码\BLE实验31：蓝牙MAC地址设置\examples\ble_peripheral\ble_app_uart\pca10040\s132\arm5_no_packs
